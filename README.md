@@ -7,4 +7,4 @@
 
 > Also try to highlight the current hotspots in the country and the spread on new cases. Use folium Maps
 
-I used selenium to extract tables from the dynamic website
+I used selenium to extract tables from the website
